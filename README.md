@@ -1,1 +1,3 @@
-# fibonacci-recursive-algo
+# fibonacci-recursive-algorithm
+
+![img](https://i.imgur.com/wOSx1oR.png)
